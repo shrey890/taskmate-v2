@@ -16,5 +16,6 @@ Task Management: Add, edit, and delete tasks with ease. Mark tasks as complete o
 2.Editing a Task: To edit a task, click on it, make your changes, and save.
 3.Completing a Task: Click the checkbox next to a task to mark it as complete.
 4.Deleting a Task: Click the delete icon to remove a task.
+<br>
 5.Changing Themes: Explore the NAV to switch between different themes.
 6.Local Storage: Your tasks are automatically saved to local storage, so you can access them even after closing the app.
