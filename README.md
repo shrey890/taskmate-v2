@@ -9,7 +9,7 @@ Local Storage: Your tasks are stored locally, ensuring your data is secure and e
 
 Five Themes: Customize your app with a choice of five different themes to suit your preferences.
 
-Task Management: Add, edit, and delete tasks with ease. Mark tasks as complete or incomplete.
+Task Management: Add, edit, and delete tasks with ease.
 
 ## Usage
 1.Adding a Task: Click the "Add Task" button and enter your task details.
